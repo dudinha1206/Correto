@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(206, 200, 178);
+    text-align: left;
+}
+h1{
+    color: darkgreen;
+    font-weight: normal;
+     font-style: italic;
+     text-align: center;
+}
+p{
+    color: black;
+     font-style: italic;
+     font-weight: normal;
+} 
+h2 { color: darkgreen;
+    font-weight: normal;
+    font-style: italic;
+    text-align: center;
+}
+h3 { color: darkgreen;
+    font-weight: normal;
+    font-style: italic;
+    text-align: center;
+}
+image{
+    width: 45%;
+    text-align: center;
+}
+.lista2 {
+    text-align: left;
+}
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+}
+footer a{
+    color: darkgreen;
+}
